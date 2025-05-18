@@ -1,6 +1,6 @@
 # Willkommen auf meinem GitHub-Profil!
 
-![Banner](https://cloud.2709shadow.de/img/red%20moon.jpg)
+![Banner](https://bykoma.de/img/red%20moon.jpg)
 
 ## 💻 Über mich
 
