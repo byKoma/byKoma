@@ -1,6 +1,6 @@
 # Willkommen auf meinem GitHub-Profil!
 
-![Banner](https://bykoma.de/img/red%20moon.jpg)
+![Banner](https://ibb.co/Xxn1cYsw)
 
 ## 💻 Über mich
 
